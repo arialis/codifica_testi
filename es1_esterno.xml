@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<!DOCTYPE TEI SYSTEM "es2.dtd">
+
+<tei>
+<header> ciao </header>
+<facsimile> ciao ciao </facsimile>
+<testo> ciaao </testo>
+</tei>
