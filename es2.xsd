@@ -1,0 +1,12 @@
+<xsd:simpleType name=‘‘chapterNumberType’’> <! dichiarazione elemento come simpleType (non ha attributi e figli) e assegnamento del nome>
+	<xsd:restriction base=‘‘xsd:integer’’> <! indico la tipologia di ciò che si inserisce (intero)>
+		<xsd:maxInclusive value=‘‘1000’’/> <! indica il numero massimo di occorrenze degli elementi (1000)>
+		<xsd:minInclusive value=‘‘1’’/> 
+	</xsd:restriction> <! indica il numero minimo di occorrenze degli elementi (1)>
+</xsd:simpleType> <! chiusura dichiarazione elemento simpleType>
+
+<xsd:element name=‘‘item’’> <! dichiarazione elemento e assegnamento del nome>
+	<xsd:complexType> <! dichiarazione elemento come complexType (può avere attributi e figli)>
+		<xsd:attribute name=‘‘originalChapter’’ type=‘‘chapterNumberType’’/> <! dichiarazione attributo dell'elemento con nome originalChapter e tipo chapterNumberType>
+	</xsd:complexType> <! chiusura dichiarazione elemento come complexType>
+</xsd:element> <! chiusura dichiarazione elemento>
