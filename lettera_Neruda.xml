@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lettera di Pablo Neruda a Albertina Rosa Azócar Soto</title>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Arianna Lisi</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Università di Pisa</distributor>
+			</publicationStmt>
+			<!-- <sourceDesc> (source description) describes the source from which an electronic text was derived or generated, typically a bibliographic description in the case of a digitized text, or a phrase such as "born digital" for a text which has no previous existence -->
+			<sourceDesc>
+				<bibl>Lettera di Pablo Neruda, pubblicata su altervista.org da restaurus</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<div type="lettera">
+			<opener>
+				<!-- 
+				<dateline>
+					<name type="place"></name>
+					<date></date>
+				</dateline>
+				-->
+				<salute>Amari sono stati questi giorni, mia piccola Albertina,</salute>
+			</opener>
+			<p>Crisi nervosa o accumulo di porcherie che sia, ormai non mi sopporto più neppure io. Di notte insonnia, lunga, dolorosa. Mi esaspero, febbricitante. Ieri notte ho letto due lunghi romanzi. All’alba mi stavo ancora rigirando nel letto come un malato. Qui la mattina non mi lasciano dormire. La mia famiglia: gente stupida e cattiva. Che solitudine, Dio mio! Perché mia madre mi ha partorito tra queste rocce? Ed esaurito come sono non ho la forza di prendere il treno. Mi restano quattro giorni da passare qui. Non è vero, signorina Albertina, che mi lagno come una femminuccia? No.</p>
+			<p>È che arriva il momento in cui uno non ne può proprio più. A volte penso alle persone che mi scrivono lettere dopo aver letto i miei libri, penso agli amici e penso a te. Vado felice incontro all’ora della posta e quando apro quelle lettere che per me non hanno importanza e noto l’assenza quotidiana delle tue parole, comprendo la triste realtà. Chi sei tu? Chi sono io? T’importa forse cosa faccio e per cosa soffro? Cosa significo io per te? Probabilmente, nel profondo del tuo cuore, se vuoi essere del tutto sincera, niente. Una cosa estranea a te, un uomo a cui hai nascosto i tuoi pensieri più chiari, un uomo che ti ha trattato quasi come una bambolina, e a volte ha persino avuto voglia di romperla. Eppure, per tanto tempo, sono andato bene per tutti. Non mi lamento di questa solitudine che mi ha reso diverso da tutti, ma a volte mi sgorga un grido dalla ferita. Basta.</p>
+			<closer>
+				<salute>Mi pento di questa lettera tanto lunga, tanto esclusiva: ti ho parlato solo di me. La imbucherò con la speranza che vada persa. Anche se la riceverai sarà andata persa. Ho l’onore di baciarti</salute>
+				<signed>Pablo</signed>
+			</closer>
+		</div>
+	</text>
+</TEI>

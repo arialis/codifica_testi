@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader xml:lang="Italy">
+        <fileDesc>
+            <titleStmt>
+                <title>Marcovaldo</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>Arianna Lisi</name>
+                </respStmt>
+            </titleStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Marcovaldo</title>
+                    <author>Italo Calvino</author>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chapter">
+                <head> Capitolo 1, Funghi in città </head>
+                    <p>II vento, venendo in città da lontano, le porta doni inconsueti, di cui s'accorgono solo poche anime sensibili, come i raffreddati del fieno, che starnutano per pollini di fiori d'altre terre.</p>
+                    <p>Un giorno, sulla striscia d'aiolà d'un corso cittadino, capitò chissà donde una ventata di spore, e ci germinarono dei funghi. Nessuno se ne accorse tranne il manovale Marcovaldo che proprio lì prendeva ogni mattina il tram.</p>
+                    <p>Aveva questo Marcovaldo un occhio poco adatto alla vita di città: cartelli, semafori, vetrine, insegne luminose, manifesti, per studiati che fossero a colpire l'attenzione, mai fermavano il suo sguardo che pareva scorrere sulle sabbie del deserto. Invece, una foglia che ingiallisse su un ramo, una piuma che si impigliasse ad una tegola, non gli sfuggivano mai: non c'era tafano sul dorso d'un cavallo, pertugio di tarlo in una tavola, buccia di fico spiaccicata sul marciapiede che Marcovaldo non notasse, e non facesse oggetto di ragionamento, scoprendo i mutamenti della stagione, i desideri del suo animo, e le miserie della sua esistenza.</p>
+                    <p>Così un mattino, aspettando il tram che lo portava alla ditta Sbav dov'era uomo di fatica, notò qualcosa d'insolito presso la fermata, nella striscia di terra sterile e incrostata che segue l'alberatura del viale: in certi punti, al ceppo degli alberi, sembrava si gonfiassero bernoccoli che qua e là s'aprivano e lasciavano affiorare tondeggianti corpi sotterranei. Si chinò a legarsi le scarpe e guardò meglio: erano funghi, veri funghi, che stavano spuntando proprio nel cuore della città! A Marcovaldo parve che il mondo grigio e misero che lo circondava diventasse tutt'a un tratto generoso di ricchezze nascoste, e che dalla vita ci si potesse ancora aspettare qualcosa, oltre la paga oraria del salario contrattuale, la contingenza, gli assegni familiari e il caropane.</p>
+                    <p>Al lavoro fu distratto più del solito; pensava che mentre lui era lì a scaricare pacchi e casse, nel buio della terra i funghi silenziosi, lenti, conosciuti solo da lui, maturavano la polpa porosa, assimilavano succhi sotterranei, rompevano la crosta delle zolle.</p>
+                    <q>"Basterebbe una notte di pioggia,"</q><p> si disse, </p><q>"e già sarebbero da cogliere".</q>
+                    <p>E non vedeva l'ora di mettere a parte della scoperta sua moglie e i sei figlioli.</p>
+                    <q>"Ecco quel che vi dico!"</q><p> annunciò durante il magro desinare. </p><q>"Entro la settimana mangeremo funghi! Una bella frittura! V'assicuro!"</q>
+                    <p>E ai bambini più piccoli, che non sapevano cosa i funghi fossero, spiegò con trasporto la bellezza delle loro molte specie, la delicatezza del loro sapore, e come si doveva cucinarli; e trascinò così nella discussione anche sua moglie Domitilla, che s'era mostrata fino a quel momento piuttosto incredula e distratta.</p>
+                    <q>"E dove sono questi funghi?"</q><p> domandarono i bambini. </p><q>"Dicci dove crescono!"</q>                    
+                    <p>A quella domanda l'entusiasmo di Marcovaldo fu frenato da un ragionamento sospettoso:</p>
+                    <q>"Ecco che io gli spiego il posto, loro vanno a cercarli con una delle solite bande di monelli, si sparge la voce nel quartiere, e i funghi finiscono nelle casseruole altrui!"</q>
+            </div>
+        </body>
+    </text>
+</TEI>
