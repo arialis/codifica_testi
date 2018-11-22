@@ -3,7 +3,7 @@
 <!DOCTYPE TEI SYSTEM "es1_esterno.dtd">
 
 <tei>
-<header> </header>
-<facsimile> </facsimile>
-<testo> </testo>
+<header> ciao </header>
+<facsimile> ciao ciao </facsimile>
+<testo> ciaao </testo>
 </tei>
