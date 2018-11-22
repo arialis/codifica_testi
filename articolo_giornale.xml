@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- link: https://www.corriere.it/scienze/18_novembre_12/dolomiti-scoperto-nuovo-minerale-fiemmeite-16ca73c8-e6a3-11e8-b579-7cd18decd794.shtml -->
+<TEI>
+	<teiHeader>
+	   <!-- fileDesc: descrizione del file -->
+		<fileDesc>
+		   <!-- titleStmt-->
+			<titleStmt>
+				<title>Articolo Giornale Corriere della Sera</title>
+				<!-- respStmt (from TEI Guidelines): statement of responsibility: supplies a statement of responsibility for the intellectual content of a text, edition, recording, or series, where the specialized elements for authors, editors, etc. do not suffice or do not apply. May also be used to encode information about individuals or organizations which have played a role in the production or distribution of a bibliographic work. -->
+				<respStmt> 
+					<resp>Conversione TEI P5 a cura di</resp>
+					<name>Arianna Lisi</name>
+				</respStmt>
+			</titleStmt>
+			<!-- publicationStmt -->
+			<publicationStmt>
+				<publisher>Corriere</publisher>
+				<pubPlace>Online, sito Corriere.it</pubPlace>
+				<date>12 novembre 2018</date>
+			</publicationStmt>
+			<!-- sourceDesc -->
+			<sourceDesc>
+			   <!-- biblStruct: citazione bibliografica di tipo strutturato; gli elementi devono seguire uno schema fisso -->
+				<biblStruct>
+				    <!-- analytic: informazioni su un titolo che non costituisce una pubblicazione autonoma (articolo di rivista, per es.) -->
+	                <analytic>
+			            <author>Paolo Virtuani</author>
+		                <title level="a">Dolomiti: scoperto un nuovo minerale, è la Fiemmeite</title>
+	                </analytic>
+                </biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+		    <docTitle>
+			    <titlePart>Dolomiti: scoperto un nuovo minerale, è la Fiemmeite</titlePart>
+			</docTitle>
+		</front>
+		<body>
+			<div type="section">
+				<head>Intestazione</head>
+				<p> Dal 1815 sui Monti Pallidi non avveniva la scoperta di una nuova specie di minerale. È un composto di rame dalla formula complessa rinvenuto in piccolissime scaglie all’interno di tronchi carbonificati </p>
+			</div>
+			<div type="section">
+				<head>Introduzione</head>
+				<p>Le Dolomiti si confermano un crogiolo di minerali. Dopo la stessa dolomite, un carbonato doppio di calcio e magnesio riconosciuta dallo scienziato francese del Settecento Déodat de Delomieu, e che costituisce il principale minerale della roccia dolomite che ha dato poi il nome nell’Ottocento alla catena montuosa, ora arriva la Fiemmeite, in onore della val di Fiemme. La scoperta si deve ai ricercatori del Muse, il Museo delle scienze di Trento, Paolo Ferretti e Ivano Rocchetti, assieme ai colleghi dell’Università di Milano, Francesco Demartin e Italo Campostrini, grazie alla guida del cercatore di minerali Stefano Dallabona (Gruppo Mineralogico Fassa e Fiemme).</p>
+			</div>
+			<div type="section">
+				<head>Da due secoli</head>
+				<p>Dal 1815 sulle Dolomiti non avveniva la scoperta di una nuova specie di minerale. L’ufficializzazione è avvenuta da parte della commissione dell’International Mineralogical Association, che presiede alla nomenclatura e alla classificazione di nuovi minerali. «I minerali noti sono poco più di 5 mila», dice Ferretti, del Muse. «Trovare una specie nuova è un evento molto raro». Le Dolomiti hanno dato il nome anche ad altri minerali, come la Fassaite (dalla val di Fassa) e la roccia Monzonite (dal gruppo dei Monzoni).</p>
+			</div>
+			<div type="section">
+				<head></head>
+			</div>
+		</body>
+</TEI>
