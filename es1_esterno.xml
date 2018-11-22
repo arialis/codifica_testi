@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 
-<!DOCTYPE TEI SYSTEM "es2.dtd">
+<!DOCTYPE TEI SYSTEM "es1_esterno.dtd">
 
 <tei>
-<header> ciao </header>
-<facsimile> ciao ciao </facsimile>
-<testo> ciaao </testo>
+<header> </header>
+<facsimile> </facsimile>
+<testo> </testo>
 </tei>
